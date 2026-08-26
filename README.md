@@ -1,18 +1,14 @@
 ## Hi there 👋 let me share who Linnie Naryshkin is...
 
-Linnie is a seasoned hands-on solution architect with over 8 years of experience designing and implementing scalable systems and leading teams to deliver impactful solutions.
+Hands-on Solution Architect with a decade of experience.
 
-🎯 From Business vision to Code
-Linnie possesses a comprehensive understanding of the entire software development lifecycle. She takes ownership from the initial problem identification through architecture, implementation, and final delivery, ensuring that business intent is faithfully translated into robust, production-ready systems.
+🎯 Architecture Strategy — Designing target-state architectures, leading large-scale cloud migrations, and establishing governance frameworks that keep technology decisions tied to business outcomes.
 
-🛠️ Avid Learner
-Guided by unwavering curiosity, Linnie relentlessly pursues personal and professional growth, mastering emerging technologies and applying them to create modern, maintainable, and scalable systems.
+🤖 GenAI Engineering — Shipping Agentic RAG pipelines end-to-end: retrieval design, data integration, and AI-native SDLC tooling.
 
-🤝 Agile Leader
-Linnie cultivates self-managed, user-focused teams by fostering trust, transparency, and accountability. She attracts and develops top talent through mentorship and coaching, building leaders who lead with empathy and clarity.
+🌱 Agile Leadership — Building and mentoring self-managed engineering teams; scaling delivery models across 10+ distributed engineers.
 
-🌈 Inclusive Vision
-As a Russian expat/refugee, ICD-10 code F64.0 holder, and neurodivergent individual with an economically disadvantaged background who has explored more than 30 countries, Linnie brings a uniquely global and inclusive outlook that enriches every team and project.
+🌈 Global Perspective — I bring an inclusive, neurodivergent lens shaped by my journey as a trans, Russian expat who has lived and worked across 30+ countries.
 
 <!--
 **linnienaryshkin/linnienaryshkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
